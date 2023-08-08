@@ -19,5 +19,5 @@ void main()
 
 	soma = somaNumeros(n);
 
-	printf( "O valor da soma = %d", soma);
+	printf( "\nO valor da soma = %d", soma);
 }
