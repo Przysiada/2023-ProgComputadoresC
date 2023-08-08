@@ -18,10 +18,10 @@ void main()
 
 	printf( "Digite o valor do numero N = " );
 	scanf( "%d" , &n );
-	printf( "Digite o valor do numero M = " );
+	printf( "\nDigite o valor do numero M = " );
 	scanf( "%d" , &m );
 
 	soma = somaIntervalo( n , m );
 
-	printf( "O valor da soma = %d", soma );
+	printf( "\nO valor da soma = %d", soma );
 }
